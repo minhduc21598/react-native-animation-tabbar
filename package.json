@@ -1,7 +1,6 @@
 {
   "name": "react-native-animation-tabbar",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "cleanup-android": "cd android && ./gradlew clean",
     "android": "react-native run-android",
